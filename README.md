@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ceromancy
 - 👀 I’m interested in Open Source Projects, Books, Movies & TV Shows
 - 🌱 I’m currently mastering Python and Machine Learning using TensorFlow
-
-- 📫 How to reach me      @ceromancy_ on Twitter, @fa8i0n on Instagram, 
+- 📫 You can reach me @fa8i0n on Instagram.
 
 <!---
 Ceromancy/Ceromancy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
